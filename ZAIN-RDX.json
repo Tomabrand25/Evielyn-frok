@@ -10,7 +10,7 @@
     },
     {
         "key": "dpr",
-        "value": "2.102692127227783",
+        "value": "2.102692127227783", 
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
